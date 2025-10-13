@@ -1,4 +1,4 @@
-name: 'Notify IRC'
+name: 'IRC Notification'
 description: 'Send a notification message to an IRC channel'
 author: 'mauke'
 inputs:
