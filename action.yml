@@ -38,3 +38,6 @@ inputs:
 runs:
   using: 'docker'
   image: 'Dockerfile'
+branding:
+  icon: 'message-circle'
+  color: 'purple'
