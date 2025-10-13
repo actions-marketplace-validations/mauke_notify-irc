@@ -13,7 +13,7 @@ jobs:
     steps:
       - name: "irc push"
         if: github.event_name == 'push'
-        uses: mauke/notify-irc@v1.1
+        uses: mauke/notify-irc@v1.1.1
         with:
           server: 'irc.example.com'
           port: 6697
